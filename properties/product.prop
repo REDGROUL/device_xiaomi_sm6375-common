@@ -14,3 +14,5 @@ persist.vendor.qti.telephony.vt_cam_interface=2
 debug.media.transcoding.codec_max_operating_rate_720P=240
 debug.media.transcoding.codec_max_operating_rate_1080P=120
 
+#fingerprint
+ro.build.fingerprint=POCO/moonstone_p_global/moonstone:13/TKQ1.221114.001/V14.0.4.0.TMPMIXM:user/release-keys
